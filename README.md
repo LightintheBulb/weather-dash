@@ -30,12 +30,12 @@ WHEN I click on a city in the search history
 THEN I am again presented with current and future conditions for that city
 ```
 
-```
 ## URL Deployed Application
 https://lightinthebulb.github.io/weather-dash/
+
 ## URL of GitHub Repository
 https://github.com/LightintheBulb/weather-dash
-```
+
 
 ## Mock-Up
 
